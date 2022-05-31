@@ -1,0 +1,6 @@
+
+# Some unwanted files
+*.o
+*.vcd
+*.cf
+testbench
